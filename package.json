@@ -1,7 +1,7 @@
 {
-  "name": "strapi-import-export-csv",
-  "version": "0.0.1",
-  "description": "Import export csv for strapi 5",
+  "name": "strapi-import-export",
+  "version": "0.0.2",
+  "description": "Import export for strapi 5",
   "keywords": [],
   "license": "MIT",
   "author": "Graeme Fulton <graeme@prototypr.io>",
