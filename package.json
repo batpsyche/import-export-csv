@@ -1,5 +1,5 @@
 {
-  "name": "strapi-import-export",
+  "name": "strapi-import-export-csv",
   "version": "0.0.2",
   "description": "Import export for strapi 5",
   "keywords": [],
